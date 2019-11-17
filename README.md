@@ -1,2 +1,93 @@
-# Poke-s-MIDI-Checklist
-A midi checklist of videos to be uploaded.
+# Poke's MIDI Checklist
+-------------------------------------------
+
+##### Basically a list of midis I'll be uploading in the near future.
+##### MIDITrail/PFA/Synthesia | List goes by Alphabetic order by Author
+
+------------------------------------------
+
+
+- BusiedGem's The Fantastic Legend of Tohho
+- BusiedGem's Lunatic Eyes ~ Invisible Full Moon
+- BusiedGem's Border of Life
+- BusiedGem's Cheat Against the Impossible Danmaku
+- BusiedGem's  Fall of Fall ~ Autumnal Waterfall
+- BusiedGem's Phantasm - Crafty Tiny Gray
+- BusiedGem's Solar Sect of Mystic Wisdom ~ Nuclear Fusion
+- Cramel Iffy/Paku 15000's U.N. Owen was Her? [Previously worked on but placed on hold]
+- Epretroll/BusiedGem's The Dream Palace
+- Epretroll's Demystify Feast
+- Epretroll's Crystallized Silver
+- Epretroll's Reach for the Moon ~ Immortal Smoke
+- Epretroll/Scub's The Venerable Ancient Battlefield
+- Epretroll/Myhrazayn Mafia's Mysterious Purification Rod
+- Gen'you Layte's Suicide Parade/スーサイドパレード
+- Graham B's Higan Retour ~ Riverside View
+- Gray Vagabond's Dreamy Pilot V1
+- HDSQ's Counting Stars 
+- HDSQ's SOS 
+- HDSQ's Wake me up [Previously worked on but placed on hold]
+- HDSQ/The Romanticist's Ouranos [Planned nolag on 2nd channel]
+- ICEWiimaker/Xinyu Qian's Ordinary Disco
+- Infernis's Solar Sect of Mystic Wisdom
+- Infernis's 100,000 Steps to Elysium
+- Infernis's Septette for the Dead Princess
+- Infernis's The Dark Blowhole
+- Infernis's Crazy Backup Dancers
+- Infernis's Welcome to Youkai Temple [Previously worked on but placed on hold]
+- Kanade's Septette for the dead princess 
+- LEB/Kanade's Toumei Elegy [Previously worked on but placed on hold]
+- LEB/Kanade's Genryuu Kaiko
+- LEB/Kanade's Hesitation Snow
+- LEB's Platinum Disco
+- LEB's XI - FREEDOM DiVE↓
+- LEB/김하진's  ICE ~ Cytus - L2 ~ Ascension
+- LEB/걍 (聽音) [?]/ (캐논슈터 (黑化) [?] 's Kobito of the Shining Needle 
+- MusiMasta's Field of Hopes and Dreams [Previously worked on but placed on hold]
+- MusiMasta's THE WORLD REVOLVING [Previously worked on but placed on hold]
+- MusiMasta's Chaos King 
+- MusiMasta/Declan's Rude Buster
+- MusiMasta/Declan's The Tower of Fate
+- MSL-Aria's Deemo Entrance
+- MSL-Ahria's Dark Side of Fate
+- MSL-Ahria's Last Remote
+- MSL-Ahria's Entrance - Deemo
+- MSL-Ahria's Border of Life
+- MSL-Ahria's Horang Pungryuga
+- Myhrazayn Mafia/Z-Doc's Illusionary Joururi
+- Myhrazayn Mafia/Z-Doc's Epitome of an Enigma
+- Myhrazayn Mafia/Z-Doc's The Shining Needle Castle Sinking in the Air II
+- Myhrazayn Mafia/Z-Doc's One Last Time
+- Myhrazayn Mafia/Z-Doc's Zedd - Find You
+- OMBS's Senbonzakura [Previously worked on but placed on hold]
+- OMBS's Antichlorobenzene [Previously worked on but placed on hold]
+- OMBS's Preserved Valkyria
+- OMBS's The Shining Needle Castle Sinking in the Air
+- RAPPE's Hartmann's Youkai Girl
+- RAPPE's Reach for the Moon Immortal Smoke
+- RAPPE's Higan Retour - Riverside View
+- Rinnosuke's Hatsune Miku - Romeo and Cinderella (REDUX Video)
+- Scub's Lunatic Princess
+- Scub's Voyage 1969
+- Scub's Sealed Cloud Route
+- Scub's The Maid and the Pocket Watch of Blood|
+- Scub's Song of the Night Sparrow ~ Night Bird
+- Scub's Flight of the Bamboo Cutter ~ Lunatic Princess
+- Scub's Onigashima in the Fairyland 
+- Scub's Megurine Luka - Last of Me
+- Scub's Desire Drive
+- Spork's Hall of the mountain king
+- Tarwil's UN Owen was her 
+- Tarwil's Eternal Spring Dream
+- Tarwil's Asgore + Bergentrucking
+- Tarwil’s The Rabbit Has Landed
+- Tarwil's The Young Descendants of Tepes
+- Tarwil [?]/Yokkin's Asu no Yozora Shoukaihan
+- Tarwil/Yokkin's Isolation≡Thanatos / 隔絶≡タナトス
+- TTC/TheTrustedComputer's The Melancholy of Haruhi Suzumiya - God Knows
+- Thinker-AI/OMBS's Fall of Fall ~ Autumnal Waterfall
+- Tomas Z./Thinker-Al's Septette for the Dead Princess 9.7 Million
+- White Music's Bad apple v2
+- White Music/Z-Doc/Myhrazayn Mafia's Oboro
+- Yokkin’s Ghost Rule
+
