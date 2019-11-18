@@ -2,10 +2,9 @@
 -------------------------------------------
 
 ##### Basically a list of midis I'll be uploading in the near future.
-##### MIDITrail/PFA/Synthesia | List goes by Alphabetic order by Author
 
 ------------------------------------------
-
+#### List goes by Alphabetic order by Author
 
 - BusiedGem's The Fantastic Legend of Tohho
 - BusiedGem's Lunatic Eyes ~ Invisible Full Moon
