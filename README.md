@@ -44,17 +44,17 @@
 - LEB's XI - FREEDOM DiVE↓
 - LEB/김하진's  ICE ~ Cytus - L2 ~ Ascension
 - LEB/걍 (聽音) [?]/ (캐논슈터 (黑化) [?] 's Kobito of the Shining Needle 
-- MusiMasta's Field of Hopes and Dreams [Previously worked on but placed on hold]
-- MusiMasta's THE WORLD REVOLVING [Previously worked on but placed on hold]
-- MusiMasta's Chaos King 
-- MusiMasta/Declan's Rude Buster
-- MusiMasta/Declan's The Tower of Fate
 - MSL-Aria's Deemo Entrance
 - MSL-Ahria's Dark Side of Fate
 - MSL-Ahria's Last Remote
 - MSL-Ahria's Entrance - Deemo
 - MSL-Ahria's Border of Life
 - MSL-Ahria's Horang Pungryuga
+- MusiMasta's Field of Hopes and Dreams [Previously worked on but placed on hold]
+- MusiMasta's THE WORLD REVOLVING [Previously worked on but placed on hold]
+- MusiMasta's Chaos King 
+- MusiMasta/Declan's Rude Buster
+- MusiMasta/Declan's The Tower of Fate
 - Myhrazayn Mafia/Z-Doc's Illusionary Joururi
 - Myhrazayn Mafia/Z-Doc's Epitome of an Enigma
 - Myhrazayn Mafia/Z-Doc's The Shining Needle Castle Sinking in the Air II
@@ -67,11 +67,11 @@
 - RAPPE's Hartmann's Youkai Girl
 - RAPPE's Reach for the Moon Immortal Smoke
 - RAPPE's Higan Retour - Riverside View
-- Rinnosuke's Hatsune Miku - Romeo and Cinderella (REDUX Video)
+- Rinnosuke's Hatsune Miku - Romeo and Cinderella (Redone Video)
 - Scub's Lunatic Princess
 - Scub's Voyage 1969
 - Scub's Sealed Cloud Route
-- Scub's The Maid and the Pocket Watch of Blood|
+- Scub's The Maid and the Pocket Watch of Blood
 - Scub's Song of the Night Sparrow ~ Night Bird
 - Scub's Flight of the Bamboo Cutter ~ Lunatic Princess
 - Scub's Onigashima in the Fairyland 
@@ -83,9 +83,10 @@
 - Tarwil's Asgore + Bergentrucking
 - Tarwil’s The Rabbit Has Landed
 - Tarwil's The Young Descendants of Tepes
-- Tarwil [?]/Yokkin's Asu no Yozora Shoukaihan
+- Tarwil/Yokkin's Asu no Yozora Shoukaihan
 - Tarwil/Yokkin's Isolation≡Thanatos / 隔絶≡タナトス
 - TTC/TheTrustedComputer's The Melancholy of Haruhi Suzumiya - God Knows
+- TTC/TheTrustedComputer's Only My Railgun
 - Thinker-AI/OMBS's Fall of Fall ~ Autumnal Waterfall
 - Tomas Z./Thinker-Al's Septette for the Dead Princess 9.7 Million
 - White Music's Bad apple v2
