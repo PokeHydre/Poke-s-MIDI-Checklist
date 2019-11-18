@@ -40,6 +40,8 @@
 - LEB/Kanade's Genryuu Kaiko
 - LEB/Kanade's Hesitation Snow
 - LEB's Platinum Disco
+- LEB's Desire Yuanxian
+- LEB's Teminite & Panda Eyes - Highscore
 - LEB's XI - FREEDOM DiVE↓
 - LEB/김하진's  ICE ~ Cytus - L2 ~ Ascension
 - LEB/걍 (聽音) [?]/ (캐논슈터 (黑化) [?] 's Kobito of the Shining Needle 
