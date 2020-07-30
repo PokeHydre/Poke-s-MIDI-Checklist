@@ -33,7 +33,7 @@
 - Infernis's Septette for the Dead Princess [WIP]
 - Infernis's The Dark Blowhole
 - Infernis's Crazy Backup Dancers
-- Infernis's Welcome to Youkai Temple [Previously worked on but placed on hold]
+- Infernis's Welcome to Youkai Temple [WIP]
 - Kanade's Septette for the dead princess 
 - LEB/Kanade's Toumei Elegy [Previously worked on but placed on hold]
 - LEB/Kanade's Genryuu Kaiko
