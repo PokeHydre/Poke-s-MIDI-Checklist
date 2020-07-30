@@ -85,6 +85,11 @@
 - Tarwil's The Young Descendants of Tepes [WIP]
 - Tarwil/Yokkin's Asu no Yozora Shoukaihan
 - Tarwil/Yokkin's Isolation≡Thanatos / 隔絶≡タナトス
+- TrainerLydia's
+- TrainerLydia's 
+- TrainerLydia's 
+- TrainerLydia's 
+- TrainerLydia's  
 - TSMB2's Arecibo [WIP]
 - TSMB2's ATAAI 1-4 [WIP, all separate videos]
 - TTC/TheTrustedComputer's The Melancholy of Haruhi Suzumiya - God Knows
