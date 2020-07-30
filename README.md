@@ -19,7 +19,7 @@
 - Epretroll's Crystallized Silver
 - Epretroll's Reach for the Moon ~ Immortal Smoke
 - Epretroll/Scub's The Venerable Ancient Battlefield
-- Epretroll/Myhrazayn Mafia's Mysterious Purification Rod
+- Epretroll/Myhrazayn Mafia's Mysterious Purification Rod [WIP]
 - Gen'you Layte's Suicide Parade/スーサイドパレード
 - Graham B's Higan Retour ~ Riverside View
 - Gray Vagabond's Dreamy Pilot V1
@@ -30,7 +30,7 @@
 - ICEWiimaker/Xinyu Qian's Ordinary Disco
 - Infernis's Solar Sect of Mystic Wisdom
 - Infernis's 100,000 Steps to Elysium
-- Infernis's Septette for the Dead Princess
+- Infernis's Septette for the Dead Princess [WIP]
 - Infernis's The Dark Blowhole
 - Infernis's Crazy Backup Dancers
 - Infernis's Welcome to Youkai Temple [Previously worked on but placed on hold]
@@ -40,7 +40,7 @@
 - LEB/Kanade's Hesitation Snow
 - LEB's Platinum Disco
 - LEB's Desire Yuanxian
-- LEB's Teminite & Panda Eyes - Highscore
+- LEB's Teminite & Panda Eyes - Highscore [WIP]
 - LEB's XI - FREEDOM DiVE↓
 - LEB/김하진's  ICE ~ Cytus - L2 ~ Ascension
 - LEB/걍 (聽音) [?]/ (캐논슈터 (黑化) [?] 's Kobito of the Shining Needle 
@@ -49,8 +49,8 @@
 - MSL-Ahria's Last Remote
 - MSL-Ahria's Entrance - Deemo
 - MSL-Ahria's Border of Life
-- MSL-Ahria's Horang Pungryuga
-- MusiMasta's Field of Hopes and Dreams [Previously worked on but placed on hold]
+- MSL-Ahria's Horang Pungryuga [WIP]
+- MusiMasta's Field of Hopes and Dreams [WIP]
 - MusiMasta's THE WORLD REVOLVING [Previously worked on but placed on hold]
 - MusiMasta's Chaos King 
 - MusiMasta/Declan's Rude Buster
@@ -69,22 +69,24 @@
 - RAPPE's Higan Retour - Riverside View
 - Rinnosuke's Hatsune Miku - Romeo and Cinderella (Redone Video)
 - Scub's Lunatic Princess
-- Scub's Voyage 1969
-- Scub's Sealed Cloud Route
-- Scub's The Maid and the Pocket Watch of Blood
+- Scub's Voyage 1969 [Finished]
+- Scub's Sealed Cloud Route [WIP]
+- Scub's The Maid and the Pocket Watch of Blood [WIP]
 - Scub's Song of the Night Sparrow ~ Night Bird
 - Scub's Flight of the Bamboo Cutter ~ Lunatic Princess
 - Scub's Onigashima in the Fairyland 
 - Scub's Megurine Luka - Last of Me
-- Scub's Desire Drive
-- Spork's Hall of the mountain king
+- Scub's Desire Drive [WIP]
+- Spork's Hall of the mountain king [WIP]
 - Tarwil's UN Owen was her 
 - Tarwil's Eternal Spring Dream
 - Tarwil's Asgore + Bergentrucking
 - Tarwil’s The Rabbit Has Landed
-- Tarwil's The Young Descendants of Tepes
+- Tarwil's The Young Descendants of Tepes [WIP]
 - Tarwil/Yokkin's Asu no Yozora Shoukaihan
 - Tarwil/Yokkin's Isolation≡Thanatos / 隔絶≡タナトス
+- TSMB2's Arecibo [WIP]
+- TSMB2's ATAAI 1-4 [WIP, all separate videos]
 - TTC/TheTrustedComputer's The Melancholy of Haruhi Suzumiya - God Knows
 - TTC/TheTrustedComputer's Only My Railgun
 - Thinker-AI/OMBS's Fall of Fall ~ Autumnal Waterfall
