@@ -69,7 +69,7 @@
 - RAPPE's Higan Retour - Riverside View
 - Rinnosuke's Hatsune Miku - Romeo and Cinderella (Redone Video)
 - Scub's Lunatic Princess
-- Scub's Voyage 1969 [Finished]
+- ~~Scub's Voyage 1969~~ [Finished]
 - Scub's Sealed Cloud Route [WIP]
 - Scub's The Maid and the Pocket Watch of Blood [WIP]
 - Scub's Song of the Night Sparrow ~ Night Bird
